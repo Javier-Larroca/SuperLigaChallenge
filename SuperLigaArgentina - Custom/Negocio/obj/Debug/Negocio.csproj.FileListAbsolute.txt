@@ -1,0 +1,22 @@
+C:\Users\jlarroca\source\repos\SuperLigaArgentina\Negocio\bin\Debug\Negocio.pdb
+C:\Users\jlarroca\source\repos\SuperLigaArgentina\Negocio\bin\Debug\Dominio.pdb
+C:\Users\jlarroca\source\repos\SuperLigaArgentina\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\jlarroca\source\repos\SuperLigaArgentina\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\jlarroca\source\repos\SuperLigaArgentina\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\jlarroca\source\repos\SuperLigaArgentina\Negocio\obj\Debug\Negocio.pdb
+C:\Users\jlarroca\source\repos\SuperLigaArgentina\Negocio\bin\Debug\Dominio.dll
+C:\Users\jlarroca\source\repos\SuperLigaArgentina\Negocio\bin\Debug\Dominio.dll.config
+C:\Users\jlarroca\source\repos\SuperLigaArgentina\Negocio\bin\Debug\Negocio.dll.config
+C:\Users\jlarroca\source\repos\SuperLigaArgentina\Negocio\bin\Debug\Negocio.dll
+C:\Users\jlarroca\source\repos\SuperLigaArgentina\Negocio\obj\Debug\Negocio.dll
+C:\Users\jlarroca\source\repos\SuperLiga\SuperLigaArgentina - Custom\Negocio\bin\Debug\Negocio.dll.config
+C:\Users\jlarroca\source\repos\SuperLiga\SuperLigaArgentina - Custom\Negocio\bin\Debug\Negocio.dll
+C:\Users\jlarroca\source\repos\SuperLiga\SuperLigaArgentina - Custom\Negocio\bin\Debug\Negocio.pdb
+C:\Users\jlarroca\source\repos\SuperLiga\SuperLigaArgentina - Custom\Negocio\bin\Debug\Dominio.dll
+C:\Users\jlarroca\source\repos\SuperLiga\SuperLigaArgentina - Custom\Negocio\bin\Debug\Dominio.pdb
+C:\Users\jlarroca\source\repos\SuperLiga\SuperLigaArgentina - Custom\Negocio\bin\Debug\Dominio.dll.config
+C:\Users\jlarroca\source\repos\SuperLiga\SuperLigaArgentina - Custom\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\jlarroca\source\repos\SuperLiga\SuperLigaArgentina - Custom\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\jlarroca\source\repos\SuperLiga\SuperLigaArgentina - Custom\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\jlarroca\source\repos\SuperLiga\SuperLigaArgentina - Custom\Negocio\obj\Debug\Negocio.dll
+C:\Users\jlarroca\source\repos\SuperLiga\SuperLigaArgentina - Custom\Negocio\obj\Debug\Negocio.pdb
