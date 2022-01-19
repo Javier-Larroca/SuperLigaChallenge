@@ -1,0 +1,7 @@
+C:\Users\jlarroca\source\repos\SuperLigaArgentina\Dominio\bin\Debug\Dominio.pdb
+C:\Users\jlarroca\source\repos\SuperLigaArgentina\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\jlarroca\source\repos\SuperLigaArgentina\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\jlarroca\source\repos\SuperLigaArgentina\Dominio\obj\Debug\Dominio.pdb
+C:\Users\jlarroca\source\repos\SuperLigaArgentina\Dominio\bin\Debug\Dominio.dll.config
+C:\Users\jlarroca\source\repos\SuperLigaArgentina\Dominio\bin\Debug\Dominio.dll
+C:\Users\jlarroca\source\repos\SuperLigaArgentina\Dominio\obj\Debug\Dominio.dll
